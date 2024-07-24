@@ -24,7 +24,7 @@ Este projeto de consultoria visa identificar e resolver problemas de tecnologia 
 - **Suporte:** 10 horas
 
 ## 4. Custo de Mão de Obra
-- **Taxa por Hora:** USD 150/hora
+- **Taxa por Hora:** 150/hora
 - **Total Estimado de Mão de Obra:** (40 horas + horas da implementação) = [Calcular após diagnóstico]
 
 ## 5. Despesas Adicionais
