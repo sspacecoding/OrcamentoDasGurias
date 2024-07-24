@@ -30,3 +30,10 @@ A seguir, é apresentado um modelo de orçamento para o desenvolvimento de uma l
 Aqui tu encontra modelos prontos para serem adaptados e usados em seus próprios projetos: 
 - [Orçamento para Landing Page](https://github.com/sspacecoding/OrcamentoDasGurias/blob/main/OrcamentoLandingPage.md)
 - [Orçamento para Consultoria](https://github.com/sspacecoding/OrcamentoDasGurias/blob/main/OrcamentoConsultoria.md)
+
+## Contribuições
+
+Tem uma sugestão de melhoria para os modelos? Suas contribuições são valiosas. Se tu tiveres ideias ou feedback, por favor, não hesite em compartilhar.
+
+Boa sorte na jornada freelancer. 🖖
+
