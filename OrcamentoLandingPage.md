@@ -1,9 +1,9 @@
 # Orçamento para Desenvolvimento de Landing Page
 
-**Cliente:** Fulano da Silva Ltda.  
-**Projeto:** Landing Page para Lançamento de Produto  
-**Data:** 23 de Julho de 2024  
-**Preparado por:** Giulia Bordignon 
+**Cliente:** Empresa X  
+**Projeto:** Diagnóstico e Solução de Problemas de TI  
+**Data:** [Inserir data]  
+**Preparado por:** [Seu Nome] 
 
 ## 1. Escopo do Projeto
 Desenvolvimento de uma landing page responsiva com o objetivo de promover o lançamento de um novo software de gerenciamento de tarefas. A página incluirá:
@@ -18,12 +18,12 @@ Desenvolvimento de uma landing page responsiva com o objetivo de promover o lan�
 - **Serviços de hospedagem** (a ser provido pelo cliente).
 
 ## 3. Cronograma de Entregas
-- **Inicio do Projeto:** 01 de Agosto de 2024
-- **Entrega do Design para Aprovação:** 10 de Agosto de 2024
-- **Desenvolvimento e Testes:** 11 de Agosto a 25 de Agosto de 2024
-- **Revisão e Ajustes Finais:** 26 de Agosto a 30 de Agosto de 2024
-- **Lançamento da Landing Page:** 31 de Agosto de 2024
-
+- **Inicio do Projeto:** [Inserir data] 
+- **Entrega do Design para Aprovação:** [Inserir data] 
+- **Desenvolvimento e Testes:** [Inserir data] 
+- **Revisão e Ajustes Finais:** [Inserir data] 
+- **Lançamento da Landing Page:** [Inserir data]
+- 
 ## 4. Custo de Mão de Obra
 - **Total de Horas Estimadas:** 80 horas
 - **Horas Adicionais de Contingência (20%):** 16 horas
@@ -55,4 +55,4 @@ Desenvolvimento de uma landing page responsiva com o objetivo de promover o lan�
 - **Cancelamento:** Em caso de cancelamento, o cliente é responsável por todos os custos incorridos até a data do cancelamento.
 
 ## 11. Validade da Proposta
-- **Data de Expiração da Proposta:** 31 de Julho de 2024
+- **Data de Expiração da Proposta:** [Inserir data] 
